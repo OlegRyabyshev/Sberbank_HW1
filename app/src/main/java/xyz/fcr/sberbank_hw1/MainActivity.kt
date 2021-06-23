@@ -12,8 +12,8 @@ class MainActivity : AppCompatActivity() {
 
     override fun onResume() {
         super.onResume()
-        val textView : TextView = findViewById(R.id.TextView)
-        textView.apply{
+        val textView: TextView = findViewById(R.id.TextView)
+        textView.apply {
             text = context.getString(R.string.hello_sber)
             textSize = 30F
         }
