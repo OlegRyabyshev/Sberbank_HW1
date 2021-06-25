@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Sberbank_HW1</string>
     <string name="hello_sber">Hello Sber</string>
+    <string name="standard">Standard</string>
+    <string name="single_top">Single Top</string>
+    <string name="single_task">Single Task</string>
+    <string name="single_instance">Single instance</string>
 </resources>
