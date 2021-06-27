@@ -1,4 +1,10 @@
-<resources>
-    <string name="app_name">Sberbank_HW1</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Sberbank_HW1</string>
     <string name="hello_sber">Hello Sber</string>
+    <string name="russian">Russian</string>
+    <string name="translate">Translate</string>
+    <string name="english">English</string>
+
+    <string name="eng_alphabet">abcdefghiklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSSTUVWXYZ</string>
+    <string name="rus_alphabet">абвгдеёжзийклмнопрстуфхцчшщъыыьэюя АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЫЬЭЮЯ</string>
 </resources>
